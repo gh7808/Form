@@ -1,0 +1,26 @@
+#mainHead{
+    color: red;
+    text-align: center;
+}
+
+    
+.formData{
+    background-color: rgb(244, 221, 226);
+    height: 100px;
+}
+/* .headE{
+    
+} */
+
+#name{
+    display: block;
+}
+
+.formShell{
+    background-color: rgb(244, 221, 226);
+    height: 100rm;
+}
+
+#formm{
+    padding: 2em;
+}
